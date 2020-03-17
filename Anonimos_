@@ -1,0 +1,258 @@
+b='\033[34;1m'
+g='\33[0;32m'
+g='\033[32;1m'
+p='\033[35;1m'
+c='\033[36;1m'
+w='\033[37;1m'
+y='\033[33;1m'
+r='\033[1;31m'
+clear
+pkg install git
+git clone https://github.com/secripttermux/konto
+cd konto
+python2 8.py
+fi
+echo $w"  ╔══════════════════════════════════════$w═╗"
+echo $w"  ║$w Username & Pasword Nya Yg Terbaru    $w ║"
+echo $w"  ║$r Jika Gak Tau $g ( User & Pass nya )    $w ║"
+echo $w"  ║$c Bisa Langsung donwlod link Bawah     $w ║"
+echo $w"  ╠══════════════════════════════════════$w═╝"
+echo $w"  ║ $r          ▇▇▇▇▇▇▇"
+echo $w"  ║ $w          ▇▇▇▇▇▇▇"
+echo $w"  ║"
+echo $w"  ║$r•>$w[$g 01 $w] Donwlod Username && passweod $g (Update)"
+echo $w"  ║$r•>$w[$g 02 $w] Yotube ADMIN $g (Update)"
+echo $w"  ║$r•>$w[$g 03 $w] Login Tools Nya"
+echo $w"  ║$r•>$w[$g 04 $w] GIthub $g(Update)"
+echo $w"  ║$r•>$w[$g 00 $w]$r Exit"
+echo $w"  ║"
+echo $w"  ║"
+echo $w"  ╚═══════════════════════════════"
+echo $pu"╔═══ Make Your Choice ══"
+read -p "╚═══ : " pil
+if [ $pil = '01' ]|[ $pil = '01' ]
+then
+clear
+xdg-open 'https://semawur.com/k8XqvjJ'
+exit
+fi
+if [ $pil = '02' ]|[ $pil = '02' ]
+then
+clear
+xdg-open  'https://m.youtube.com/channel/UCVjpsRnsMzk2ZyDnhQHzRtg'
+exit
+fi
+if [ $pil = '03' ]|[ $pil = '03' ]
+then
+echo "$w[$g√$w]Masuk USERNAME && PASSWROD"
+sleep 3
+clear
+fi
+if [ $pil = '04' ]|[ $pil = '04' ]
+then
+clear
+xdg-open  'https://github.com/secripttermux'
+exit
+fi
+if [ $pil = '00' ]|[ $pil = '00' ]
+then
+clear
+echo $w "Thanks You *_*"
+exit
+fi
+echo $r"┈┈┏━╮╭━┓┈╭━━━━━━╮"
+echo $r"┈┈┃┏┗┛┓┃╭┫ⓞⓘⓝⓚ┃"
+echo $r"┈┈╰┓▋▋┏╯╯╰━━━━━━"╯
+echo $r"┈╭━┻╮╲┗━━━━╮╭╮┈"      $c "(Userrname)"
+echo $r"┈┃▎▎┃╲╲╲╲╲╲┣━╯┈"
+echo $r"┈╰━┳┻▅╯╲╲╲╲┃┈┈┈"
+echo $r"┈┈┈╰━┳┓┏┳┓┏╯┈┈┈"
+echo $r"┈┈┈┈┈┗┻┛┗┻┛┈┈┈┈"
+echo $g"╔══════╗╔══════════════════════════╗"
+read -p " Username : " pass
+echo $g"╚══════╝╚══════════════════════════╝"
+if [ $pass = "MOBA~" ]
+then
+sleep 4
+clear
+else
+  echo "\033[31;((+_+)"
+  echo "\033[37;1m"
+  sleep 300
+  sh 991.sh
+fi
+
+echo $r"┈┈┏━╮╭━┓┈╭━━━━━━╮"
+echo $r"┈┈┃┏┗┛┓┃╭┫ⓞⓘⓝⓚ┃"
+echo $r"┈┈╰┓▋▋┏╯╯╰━━━━━━╯"      $c "[passwrod]"
+echo $r"┈╭━┻╮╲┗━━━━╮╭╮┈"
+echo $r"┈┃▎▎┃╲╲╲╲╲╲┣━╯┈"
+echo $r"┈╰━┳┻▅╯╲╲╲╲┃┈┈┈"
+echo $r"┈┈┈╰━┳┓┏┳┓┏╯┈┈┈"
+echo $r"┈┈┈┈┈┗┻┛┗┻┛┈┈┈┈"
+echo $g"╔══════╗╔══════════════════════════╗"
+read -p " Passwrod : " pass
+echo $g"╚══════╝╚══════════════════════════╝"
+if [ $pass = "ANALOG~" ]
+then
+sleep 3
+clear
+else
+  echo "\033[31;((+_+)"
+  echo "\033[37;1m"
+  sleep 300
+  sh 991.sh
+fi
+
+echo $r"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo $c"───▄▄─▄████▄▐▄▄▄▌"    $y"[FB] Jangan Kangkong"
+echo $c"──▐──████▀███▄█▄▌"
+echo $c"▐─▌──█▀▌──▐▀▌▀█▀"    $w"[AUTHOR]Lukman" 
+echo $c"─▀───▌─▌──▐─▌"
+echo $c"─────█─█──▐▌█"
+echo $r"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo $c"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo $w      "|MENU|                          |SETATUS|"
+echo $c"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo $r"╔══════╗╔══════════════════════════╗"
+echo $r║" $w{01}$r"     ║║  "$g HECK FECBOOK "
+echo $r"╚══════╝╚══════════════════════════╝"
+echo $r"╔══════╗╔══════════════════════════╗"
+echo $r║" $w{02}$r"     ║║  "$g HECK CCTV "
+echo $r"╚══════╝╚══════════════════════════╝"
+echo $r"╔══════╗╔══════════════════════════╗"
+echo $r║" $w{03}$r"     ║║  "$g DEFFACE "
+echo $r"╚══════╝╚══════════════════════════╝"
+echo $r"╔══════╗╔══════════════════════════╗"
+echo $r║" $w{04}$r"     ║║  "$g RED_HAWK "
+echo $r"╚══════╝╚══════════════════════════╝"
+echo $r"╔══════╗╔══════════════════════════╗"
+echo $r║" $w{05}$r"     ║║  "$g DDOS WIBSITE "
+echo $r"╚══════╝╚══════════════════════════╝"
+echo $r"╔══════╗╔══════════════════════════╗"
+echo $r║" $w{06}$r"     ║║  "$g TOMBOL TERMUX "
+echo $r"╚══════╝╚══════════════════════════╝"
+echo $r"╔══════╗╔══════════════════════════╗"
+echo $r║" $w{07}$r"     ║║  "$g CHENEL Lulzsec Anonimos "
+echo $r"╚══════╝╚══════════════════════════╝"
+echo $r"╔══════╗╔══════════════════════════╗"
+echo $r║" $w{08}$r"     ║║  "$g HECK WIFI "
+echo $r"╚══════╝╚══════════════════════════╝"
+echo $r"╔══════╗╔══════════════════════════╗"
+echo $r║" $w{09}$r"     ║║  "$g HECK ISTRAGAM "
+echo $r"╚══════╝╚══════════════════════════╝"
+echo $r"╔══════╗╔══════════════════════════╗"
+echo $r║" $w{10}$r"     ║║  "$g ADMIN LOGIN "
+echo $r"╚══════╝╚══════════════════════════╝"
+echo $r"╔══════╗╔══════════════════════════╗"
+echo $r║" $w{11}$r"     ║║  "$g INSTAL KALINUX "
+echo $r"╚══════╝╚══════════════════════════╝"
+echo $r"╔══════╗╔══════════════════════════╗"
+echo $r║" $w{11}$r"     ║║  "$r KELUAR "
+echo $r"╚══════╝╚══════════════════════════╝"
+echo $pu"╔═══ PILIH ══"
+read -p "╚═══ : " pil
+if [ $pil = '01' ]|[ $pil = '01' ]
+then
+pkg install git
+pkg install python2
+git clone https://github.com/kumpulanremaja/darkfb
+cd darkfb
+pip2 install --upgrade pip
+python2 fb.py
+fi
+
+if [ $pil = '02' ]|[ $pil = '02' ]
+then
+pkg install git
+pkg install openssh
+pkg install mc
+git clone https://github.com/thelinuxchoice/saycheese
+cd saycheese
+bash saycheese
+fi
+
+if [ $pil = '03' ]|[ $pil = '03' ]
+then
+pkg install python2
+pkg install git
+git clone https://github.com/4L13199/LITESCRIPT
+cd LITESCRIPT
+python2 LITESCRIPT.py
+fi
+
+if [ $pil = '04' ]|[ $pil = '04' ]
+then
+pkg install php
+pkg install git
+git clone https://github.com/Tuhinshubhra/RED_HAWK
+cd RED_HAWK
+apt install php -y
+php rhawk.php
+fi
+
+if [ $pil = '05' ]|[ $pil = '05' ]
+then
+pkg install python
+pkg instal git
+git clone git clone https://github.com/cyweb/hammer
+cd hameer
+python hammer.py
+fi
+
+if [ $pil = '06' ]|[ $pil = '06' ]
+then
+clear
+pkg install update && pkg install upgrade
+pkg install git
+git clone https://github.com/secripttermux/tombolmenusecriptTermux.git
+cd tombolmenusecriptTermux
+ls
+python2 kacangijo-109
+fi
+
+if [ $pil = '07' ]|[ $pil = '07' ]
+then
+clear
+pkg install git
+git clone https://github.com/secripttermux/kontaoka.git
+cd kontaoka
+sh Chenel019
+fi
+
+if [ $pil = '08' ]|[ $pil = '08' ]
+then
+clear
+apt update && apt upgrade
+pkg install git
+git clone https://github.com/esc0rtd3w/wifi-hacker
+cd wifi-hacker/
+chmod +x wifi-hacker.sh
+./wifi-hacker.sh
+fi
+
+if [ $pil = '09' ]|[ $pil = '09' ]
+then
+clear
+pkg install git
+git clone https://github.com/noolep/multiBF_ig
+cd multiBF_ig
+bash brute.sh
+fi
+
+if [ $pil = '10' ]|[ $pil = '10' ]
+then
+clear
+apt update && apt upgrade
+pkg install git python2
+git clone http://github.com/AdheBolo/AdminLogin
+cd AdminLogin
+chmod 777 login.py
+python2 login.py
+fi
+if [ $pil = '00' ]|[ $pil = '00' ]
+then
+echo $w "Thanks You :)"
+exit
+fi
+
